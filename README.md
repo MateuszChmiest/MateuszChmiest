@@ -39,4 +39,4 @@ src="https://img.shields.io/github/followers/mateuszchmiest?logo=github&style=fo
 
 ### CV
 
-<a href="https://drive.google.com/file/d/18DlxeUI-preg4KnDTEAvSFbue31g5f7E/view?usp=sharing" align="left"> Take look at my CV </a>
+<a href="https://drive.google.com/file/d/1CZ5CKmnS8H-T3NjhRUWsp27mKqXhVANK/view?usp=sharing" align="left"> Take look at my CV </a>
