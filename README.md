@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz
 ===============================================================================================================================
 
-Novice Front-End Developer
+Junior Front-End Developer
 --------------------------
 
 I started my adventure with programming in December 2021, on a course at the IT school "Coders Lab". In programming, I am fascinated by the possibility of creating, constant development and the end result of my work. I'm an ambitious person with a great willingness to learn and develop. I am looking for my first commercial experience as a frontend developer.
