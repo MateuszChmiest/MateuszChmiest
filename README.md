@@ -10,9 +10,6 @@ I started my adventure with programming in December 2021, on a course at the IT 
 * ✉️  You can contact me at [mateusz\_269@icloud.com](mailto:mateusz_269@icloud.com)
 * 🧠  I'm learning React Native and Typescript
 
-<a href="https://www.github.com/mateuszchmiest" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mateuszchmiest?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 ### Skills
 
 
