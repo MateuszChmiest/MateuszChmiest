@@ -6,6 +6,8 @@ Junior Front-End Developer
 
 I started my adventure with programming in December 2021. In programming, I am fascinated by the possibility of creating, constant development and the end result of my work. I'm an ambitious person with a great willingness to learn and develop. I am looking for my first commercial experience as a frontend developer.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszchmiest&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszchmiest" /> </p>
+
 * 🖥️  See my portfolio at [portfolio webiste](http://mateuszchmiest.pl)
 * ✉️  You can contact me at [mateusz\_269@icloud.com](mailto:mateusz_269@icloud.com)
 * 🧠  I'm learning React Native and Typescript
