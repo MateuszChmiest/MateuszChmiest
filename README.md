@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-I started my adventure with programming in December 2021. In programming, I am fascinated by the possibility of creating, constant development and the end result of my work. I'm an ambitious person with a great willingness to learn and develop. I am looking for my first commercial experience as a frontend developer.
+While running my own E-commerce store, I thought it would enjoy creating solutionslike that, so I started learning front-end
+development. My basics knowledge about
+programming I got on a course at the IT
+school Coders Lab. In programming, I am
+fascinated by the possibility of creating,
+constant development and the end result
+of my work. I'm an ambitious person with a
+great willingness to learn and develop.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszchmiest&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszchmiest" /> </p>
 
