@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-While running my own E-commerce store, I thought it would enjoy creating solutionslike that, so I started learning front-end
+While running my own E-commerce store, I thought it would enjoy creating solutions like that, so I started learning front-end
 development. My basics knowledge about
 programming I got on a course at the IT
 school Coders Lab. In programming, I am
